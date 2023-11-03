@@ -13,7 +13,7 @@ def FirstNonRepeatable(s):
 
 # main func
 
-s = 'geeksforgeeks'
+s = 'samuelbizimana'
 
 FirstNonRepeatable(s)
 
